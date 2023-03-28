@@ -25,7 +25,7 @@ global.location = "india, kerala, kannur" //ur location
 //bot bomdy 
 global.ownernomer = "918943735761" //ur number
 global.premium = ['918943735761'] //ur premium number
-global.botname = 'DarkNero Bot MD V7' //ur bot name
+global.botname = 'ABHI SER' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HFFJD3OGqM2EeqCqDiMMZg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/@exmodzofc4699" //ur website to be displayed
 global.botscript = 'https://github.com/DARK-MODS11/DARKNERO--V7' //script link
